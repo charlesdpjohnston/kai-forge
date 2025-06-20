@@ -11,4 +11,4 @@ Welcome to the Socratic Tutor! This repository is designed to be an interactive 
 Happy learning!
 
 ---
-*P.S. Looking for a more structured experience where the AI helps you plan your project? Check out the [Guided Project Version](link-to-your-other-repo).* 
+*P.S. Looking for a more structured experience where the AI helps you plan your project? Check out the [Guided Project Version](https://github.com/charlesdpjohnston/kai-tutor).* 
